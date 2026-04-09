@@ -6,7 +6,7 @@ Aplicación web desarrollada con React y TypeScript para gestionar maquinaria ag
 
 ---
 
-## 🧩 Funcionalidades
+## 🧩 Funcionalidades.
 
 * 📋 Visualizar lista de maquinaria
 * ➕ Agregar nuevas máquinas

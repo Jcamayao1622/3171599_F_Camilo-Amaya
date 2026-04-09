@@ -47,7 +47,7 @@ pnpm dev
 
 ---
 
-## 📊 Dominio
+## 📊 Dominio.
 
 Sistema de catálogo para maquinaria agrícola (**Agrotech**).
 
